@@ -1,0 +1,30 @@
+
+.btn{
+    -fx-background-color: #1e8d3e;
+    -fx-cursor: hand;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-font-family:Arial;
+}
+.btn:hover{
+    -fx-background-color: #45d36e;
+}
+.divconent{
+	
+	 -fx-background-color:white;
+	
+}
+.btnblack{
+	 -fx-background-color:white;
+	 
+}
+.btnblack:hover{
+	-fx-background-color:#45423f;
+}
+.textfeild{
+	-fx-background-color:white;
+	-fx-border-color:#6b6b6b;
+	-fx-border-width:0px 0px .5px 0px;
+	-fx-color:white;
+	-fx-text-fill:black;
+}
